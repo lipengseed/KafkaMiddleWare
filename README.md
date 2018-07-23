@@ -1,2 +1,5 @@
 # KafkaMiddleWare
-利用kafka开发的一个中间件，其可以根据配置创建topic，向指定的topic中发送消息以及消费消息。其可打包供生产端和消费端调用
+利用kafka开发的一个中间件，其可以根据配置创建topic，向指定的topic中发送消息以及消费消息。其可打包供生产端和消费端调用。
+使用方式：
+首先按DataQualityMessage类生产数据，然后可按照测试文件中DataQualityProducerTest.Java文件形式调用生产者；按照DataQualityConsumerTest.java文件形式调用消费者。
+当然建议自己修改DataQualityMessage类，修改成自己需要的产生消息的形式（也可直接为String），再打包成中间件由生产和消费端调用。
