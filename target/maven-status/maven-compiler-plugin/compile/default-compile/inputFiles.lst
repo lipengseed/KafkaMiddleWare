@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\cousumer\BaseConsumer.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\producer\DataQualityProducer.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\model\DataQualityMessage.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\producer\ProducerAssistant.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\util\readConfig\ReadTopicConfig.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\producer\javaBeanSerializer.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\cousumer\DataQualityConsumer.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\producer\GeneralProducer.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\model\ConsumerConfig.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\util\topicManage\TopicAssistant.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\producer\BaseProducer.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\cousumer\ConsumerAssistant.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\model\SystemConfig.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\model\TopicConfig.java
+C:\Users\pc\Desktop\KafkaUtil\KakaUtil\src\main\java\org\nit\kafkaUtil\model\ProducerConfig.java

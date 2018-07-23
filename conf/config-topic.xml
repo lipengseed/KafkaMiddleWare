@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+	<topics>
+		<!--<topic topic_name="topicTest1" repilca_num="2" retention_bytes="-1" retention_ms="604800000">-->
+			<!--<protocol protocol_name="data1" partition="0-1-2"/>-->
+			<!--<protocol protocol_name="data2" partition="3-4"/>-->
+		<!--</topic>-->
+
+		<!--<topic topic_name="topicTest2" repilca_num="2"  retention_bytes="-1" retention_ms="604800000">-->
+			<!--<protocol protocol_name="data3" partition="0-1"/>-->
+			<!--<protocol protocol_name="data4" partition="2"/>-->
+		<!--</topic>-->
+		<topic topic_name="topicTest9" repilca_num="2"  retention_bytes="-1" retention_ms="604800000">
+			<protocol protocol_name="data5" partition="0"/>
+		</topic>
+	</topics>
+</configurations>
