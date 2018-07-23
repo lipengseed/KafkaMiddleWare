@@ -1,0 +1,2 @@
+# KafkaMiddleWare
+利用kafka开发的一个中间件，其可以根据配置创建topic，向指定的topic中发送消息以及消费消息。其可打包供生产端和消费端调用
